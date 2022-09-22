@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 1473,
+      "id": 1,
+      "title": "Gaseosa Ocean Bomb Majin Boo 330 ml ",
+      "thumbnailUrl": "./img/gaseosa majin boo.png"
+    },
+    {
+      "precio": 980,
+      "id": 2,
+      "title": "Galletas Baston Pocky 35 gr sabor Frutilla (Conejo)",
+      "thumbnailUrl": "./img/pocky conejito.png"
+    },
+    {
+      "precio": 3100,
+      "id": 3,
+      "title": "Sake Kiku-Masamune Shiboritake 300 ml",
+      "thumbnailUrl": "./img/SAKE.png"
+    },
+    {
+      "precio": 800,
+      "id": 4,
+      "title": "Tako Chips snack 60 grs",
+      "thumbnailUrl": "./img/TAKO CHIPS.png"
+    },
+    {
+      "precio": 1066,
+      "id": 5,
+      "title": "Soju frutilla 500ml ",
+      "thumbnailUrl": "./img/SOJU FRUTILLA.PNG"
+    },
+    {
+      "precio": 600,
+      "id": 6,
+      "title": "Galletitas de Vainilla Relleno Arandanos Sinky Glico 60 gr",
+      "thumbnailUrl": "./img/sinky.png"
+    }
+  ]
